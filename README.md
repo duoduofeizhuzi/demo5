@@ -13,7 +13,7 @@
 - Docker
 
 ### 克隆代码仓库
-git clone 【https://github.com/duoduofeizhuzi/demo5.git】
+git clone <https://github.com/duoduofeizhuzi/demo5.git>
 
 
 ### 命令行进入根目录
