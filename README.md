@@ -29,4 +29,4 @@ cd 【/code/demo-2】
 在浏览器中访问 http://localhost:8081/api/superheroes 来获取超级英雄列表。可以使用工具如 Postman 来测试创建超级英雄的接口。
 
 ### 后续变动
-增加body拦截器
+2024-10-16新增过滤器功能
